@@ -98,7 +98,7 @@ a:hover {
 /* Section: Hero */
 .hero {
   min-height: 895px;
-  background-image: url(/img/img_for_Alivio.jpg);
+  background-image: url(./img/img_for_Alivio.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
